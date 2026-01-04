@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Uploads (optional, agar server pe hi rakhna ho)
+uploads/
+
+# IDE
+.vscode/
+.idea/
